@@ -2,9 +2,6 @@
 Configures per world gamemode
 
 # Config
-
-## Documentation
-(Example)
 ```yaml
 worlds:
  world1:
