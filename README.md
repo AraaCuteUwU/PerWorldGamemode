@@ -13,3 +13,6 @@ worlds:
  world4:
   gamemode: spectator
 ```
+
+# Issues
+Found some bugs? Create an issue (here)[https://github.com/AraaCuteUwU/PerWorldGamemode/issues]
