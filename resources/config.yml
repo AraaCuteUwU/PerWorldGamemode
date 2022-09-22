@@ -1,1 +1,7 @@
-
+worlds:
+  world:
+    gamemode: survival
+  flat:
+    gamemode: creative
+  sb:
+    gamemode: survival
