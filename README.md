@@ -15,4 +15,4 @@ worlds:
 ```
 
 # Issues
-Found some bugs? Create an issue (here)[https://github.com/AraaCuteUwU/PerWorldGamemode/issues]
+Found some bugs? Create an issue [here](https://github.com/AraaCuteUwU/PerWorldGamemode/issues)
