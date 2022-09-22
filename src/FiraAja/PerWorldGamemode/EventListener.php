@@ -25,7 +25,6 @@ class EventListener implements Listener {
             return;
         }
         if(!$this->plugin->getServer()->getWorldManager()->isWorldGenerated($world->getFolderName())){
-            $this->plugin->getServer()->getWorldManager()->generateWorld($world->getFolderName());
             return;
         }
         if(!in_array($world->getFolderName(), array_keys($this->plugin->config->get("worlds")))){
