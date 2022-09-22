@@ -1,7 +1,9 @@
 worlds:
-  world:
+  world1:
     gamemode: survival
-  flat:
+  world2:
     gamemode: creative
-  sb:
-    gamemode: survival
+  world3:
+    gamemode: adventure
+  world4:
+    gamemode: spectator
